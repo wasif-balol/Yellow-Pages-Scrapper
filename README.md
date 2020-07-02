@@ -11,6 +11,6 @@
 # Install Requirements in a virtual environment:
 
 <p>
-  git clone https://github.com/wasif-balol/Scrapper.git<br>
+  git clone https://github.com/wasif-balol/Yellow-Pages-Scrapper.git<br>
 cd Scrapper<br>
 pip install -r requirements.txt</p>
