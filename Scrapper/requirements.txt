@@ -3,7 +3,7 @@ certifi==2019.11.28
 chardet==3.0.4
 fake-useragent==0.1.11
 idna==2.8
-lxml==4.5.0
+lxml==4.9.1
 proxy-requests==0.4.2
 requests==2.22.0
 soupsieve==1.9.5
