@@ -1,16 +1,35 @@
-# Yellow-Pages-Scrapper
-<h3>Scrapper is python script used to scrap location based data from yellow pages , ip rotation implemented if blocked, scrap around 20(customizable) pages of a single category and can scrap mutiple categories. The categories are customizable.<h3>
+# 📒 Yellow Pages Scraper
 
-# Get Started
-<ul>
-  <li>Requires Python, BeautifulSoup, Requests</li>
-  <li>Python:3.5|3.6|3.7|3.8</li>
-  <li>A Python virtual env is recommended. See shortcut.</li>
-</ul>
+> A Python-based script to scrape **location-based business data** from Yellow Pages.  
+> Includes **IP rotation** for anti-blocking, support for **multiple categories**, and can scrape up to **20+ pages per category** (customizable).
 
-# Install Requirements in a virtual environment:
+---
 
-<p>
-  git clone https://github.com/wasif-balol/Yellow-Pages-Scrapper.git<br>
-cd Scrapper<br>
-pip install -r requirements.txt</p>
+## 🚀 Features
+
+- 🔍 Scrapes location-specific data from Yellow Pages
+- 🔄 IP rotation to bypass rate limits and blocks
+- 🗂️ Supports multiple categories (customizable)
+- 📄 Scrapes up to 20 pages per category (configurable)
+
+---
+
+## 🧰 Requirements
+
+- Python: `3.5`, `3.6`, `3.7`, or `3.8`
+- Libraries: `BeautifulSoup`, `Requests`
+- 🐍 A virtual environment is **highly recommended**
+
+---
+
+## 💻 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/wasif-balol/Yellow-Pages-Scrapper.git
+
+# Navigate to project directory
+cd Scrapper
+
+# Install required packages
+pip install -r requirements.txt
